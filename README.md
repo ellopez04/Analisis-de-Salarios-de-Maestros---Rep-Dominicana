@@ -12,7 +12,7 @@ Este proyecto analiza los salarios de los maestros en la República Dominicana, 
 
 ## 📁 Archivos Incluidos
 
-- `Analisis salarial maestros RD.xlsx`: archivo de Excel con los datos y análisis.
+- (https://1drv.ms/x/c/b849bd5538d72761/EeYBAAckQOpAoce135B208cBcycbmOehe5M3AtEe-l1lxw?e=zqdH3g): archivo de Excel con los datos y análisis.
 - `Analisis salarial maestros RD.pdf`: reporte en PDF con los resultados y conclusiones.
 
 ## 📈 Resultados Clave
