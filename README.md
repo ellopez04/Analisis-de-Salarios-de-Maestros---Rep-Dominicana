@@ -59,8 +59,12 @@ Este proyecto demuestra mi capacidad de analizar datos reales utilizando Excel, 
 ---
 
 ## 📫 Contacto
-
 Si deseas hacer preguntas o colaborar, puedes contactarme:
 
 - ✉ davidlopezmorel@gmail.com  
 - 🔗 https://linkedin.com/in/darlin-lópez-0014b6318
++1 829-542-8648
+
+## Fuente de informacion
+-Ministerio de Educacion (para datos referentes a los maestros)
+-Banco central (para datos referentes a costo de vida del pais)
