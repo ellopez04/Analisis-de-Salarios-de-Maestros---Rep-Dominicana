@@ -1,40 +1,66 @@
-# 📊 Análisis Salarial de Maestros – República Dominicana 🇩🇴
+# Análisis Salarial de Maestros – República Dominicana
 
-## Descripción
+## 📌 Descripción del Proyecto
 
-Este proyecto analiza los salarios de los maestros en la República Dominicana, evaluando su suficiencia para cubrir la canasta básica familiar. A través de herramientas de Excel, se comparan los ingresos docentes por región y se identifican posibles brechas salariales.
+Este proyecto analiza los **salarios de los maestros en la República Dominicana** para comprender si sus ingresos alcanzan a cubrir la canasta básica familiar por región.  
+Incluye comparación entre diferentes regiones y destaca las **brechas salariales existentes** que pueden estar relacionadas con la calidad de vida de los docentes.
 
-## 🔧 Herramientas Utilizadas
-
-- **Microsoft Excel**: para el procesamiento y análisis de datos.
-- **Gráficos**: para la visualización de la información.
-- **Cálculos**: para determinar el déficit salarial respecto a la canasta básica.
-
-## 📁 Archivos Incluidos
-
-- (https://1drv.ms/x/c/b849bd5538d72761/EeYBAAckQOpAoce135B208cBcycbmOehe5M3AtEe-l1lxw?e=zqdH3g): archivo de Excel con los datos y análisis.
-- `Analisis salarial maestros RD.pdf`: reporte en PDF con los resultados y conclusiones.
-
-## 📈 Resultados Clave
-
-- Comparación de salarios docentes por región.
-- Identificación de regiones con mayor y menor déficit salarial.
-- Recomendaciones para mejorar la equidad salarial en el sector educativo.
-
-## 📌 Objetivos del Proyecto
-
-- Proporcionar una visión clara sobre la situación salarial de los maestros en el país.
-- Servir como base para futuras investigaciones o propuestas de políticas públicas.
-- Demostrar habilidades en análisis de datos y presentación de resultados.
-
-## 📬 Contacto
-
-Para más información o consultas, puedes contactarme a través de:
-
-- Correo electrónico: davidlopezmorel@gmail.com
-- LinkedIn: linkedin.com/in/darlin-lópez-0014b6318
+El análisis fue realizado utilizando herramientas de Microsoft Excel para procesamiento de datos, cálculos y visualizaciones.
 
 ---
 
+## 🎯 Objetivos del Análisis
 
- 
+- Comparar los **salarios docentes por región**.
+- Evaluar si los salarios cubren la **canasta básica familiar**.
+- Identificar las **regiones con mayor y menor déficit salarial**.
+- Extraer **insights accionables** que puedan apoyar futuras investigaciones o propuestas de políticas públicas.
+
+---
+
+## 🛠️ Herramientas Utilizadas
+
+- **Microsoft Excel**: limpieza y análisis de datos  
+- **Fórmulas avanzadas**  
+- **Tablas dinámicas y gráficos**  
+- **Comparación y visualización de brechas salariales**
+
+---
+
+## 📊 Resultados Clave
+
+- Se identificaron diferencias significativas en salarios de maestros por región.
+- Algunas regiones presentan déficits salariales importantes respecto al costo de la canasta básica familiar.
+- El análisis ayuda a visualizar desigualdades y es útil como base para decisiones estratégicas o propuestas de mejora.
+
+---
+
+## 📂 Archivos Incluidos
+
+- `Analisis salarial maestros RD.pdf` — Reporte final con resultados y conclusiones.  
+- **(Excel principal)** — Archivo de Excel con datos, cálculos y gráficas del análisis.
+
+---
+
+## 🧠 Habilidades Demostradas
+
+- Limpieza y transformación de datos en Excel  
+- Uso de fórmulas y cálculos básicos  
+- Comparación y visualización de estadísticas  
+- Presentación de resultados claros y accionables  
+- Comunicación de hallazgos analíticos
+
+---
+
+## 📌 Resumen
+
+Este proyecto demuestra mi capacidad de analizar datos reales utilizando Excel, presentar comparaciones entre variables clave y generar conclusiones que apoyen decisiones basadas en datos.
+
+---
+
+## 📫 Contacto
+
+Si deseas hacer preguntas o colaborar, puedes contactarme:
+
+- ✉ davidlopezmorel@gmail.com  
+- 🔗 https://linkedin.com/in/darlin-lópez-0014b6318
